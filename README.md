@@ -1,8 +1,6 @@
-# surfs_up
-
 ## Overview of the analysis
 
-This analysis focuses on retrieving temperature data for the months of June and December in Oahu, to determine if a surf & ice cream shop business is sustainable year-round. The analysis uses Python, Pandas funcitons and methods, and SQLAlchemy, to filter the data column of the Measurements table in the hawaii.sqlite database.
+This analysis focuses on retrieving temperature data for the months of June and December in Oahu, to determine if a surf & ice cream shop business is sustainable year-round. The analysis uses Python, Pandas functions and methods, and SQLAlchemy, to filter the data column of the Measurements table in the hawaii.sqlite database.
 
 ## Results
 
