@@ -25,4 +25,5 @@ On average, the temperatures in December are not very different from the ones in
 ### For further analysis
 
 To visualize the data, we could use matplotlib to plot the December and June temperatures. Note that there are about 200 more observations for June than for December data. However, we can still look at the center, spread, and shape of the data, and see that December is not that different from June.
+
 <img src="/Images/plot.png">
